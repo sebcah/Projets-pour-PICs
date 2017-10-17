@@ -1,3 +1,3 @@
 # Projets-pour-PICs
 
-Projets MPLAB
+Projets MPLAB trouvés sur internet pour pratiquer chez soi
